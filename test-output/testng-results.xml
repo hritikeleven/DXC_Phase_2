@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18096" started-at="2022-04-12T06:48:47Z" finished-at="2022-04-12T06:49:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18096" started-at="2022-04-12T06:48:47Z" finished-at="2022-04-12T06:49:05Z">
+      <class name="datadriven.datadriven">
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadriven.datadriven@2fc14f68]" name="setup" is-config="true" duration-ms="2427" started-at="2022-04-12T12:18:47Z" finished-at="2022-04-12T12:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestingBlog()[pri:0, instance:datadriven.datadriven@2fc14f68]" name="TestingBlog" duration-ms="15663" started-at="2022-04-12T12:18:50Z" finished-at="2022-04-12T12:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingBlog -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:datadriven.datadriven@2fc14f68]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-04-12T12:19:05Z" finished-at="2022-04-12T12:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- datadriven.datadriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
